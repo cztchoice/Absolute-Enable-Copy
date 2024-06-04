@@ -15,7 +15,6 @@
         "service_worker": "background.js"
     },
     "permissions": ["activeTab", "storage", "scripting"],
-    "host_permissions": ["https://amureborn.com/"],
     "icons": {
         "16": "images/16px.png",
         "48": "images/48px.png",

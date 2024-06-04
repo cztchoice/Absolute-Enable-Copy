@@ -114,5 +114,3 @@ function reload() {
     document.querySelector('.reload').style.display = 'flex';
 }
 
-const git = document.getElementById("earnings");
-git.onclick = () => { chrome.tabs.create({ url: "https://amureborn.com/" }); };
